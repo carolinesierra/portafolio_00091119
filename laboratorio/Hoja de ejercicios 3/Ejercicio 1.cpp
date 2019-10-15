@@ -1,6 +1,7 @@
 //Carolina María Carranza Carballo
 //Caroline Michelle Sierra Linares
 
+//Falta recursión:).
 
 #include <iostream>
 #include <cstdlib>
